@@ -1,0 +1,244 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Fundamental lawes and liberties of England claimed, asserted, and agreed unto, by severall peaceable persons of the city of London, Westminster, Southwark, hamblets, and places adjacent; commonly called levellers. Presented to the serious consideration of all the free-people of this common-wealth. July the 9. 1653.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85052</idno>
+            <idno type="STC">Wing F2529</idno>
+            <idno type="STC">Thomason E705_5</idno>
+            <idno type="STC">ESTC R207102</idno>
+            <idno type="EEBO-CITATION">99866173</idno>
+            <idno type="PROQUEST">99866173</idno>
+            <idno type="VID">118437</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85052)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118437)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 109:E705[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Fundamental lawes and liberties of England claimed, asserted, and agreed unto, by severall peaceable persons of the city of London, Westminster, Southwark, hamblets, and places adjacent; commonly called levellers. Presented to the serious consideration of all the free-people of this common-wealth. July the 9. 1653.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title; imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "July".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Levellers --  Apologetic works --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:118437:1" rendition="simple:additions"/>
+            <head>THE Fundamental LAWES and LIBERTIES OF ENGLAND Claimed, aſſerted, and agreed unto, by ſeve<g ref="char:EOLhyphen"/>rall Peaceable Perſons of the City of London, Weſtminſter, Southwark, Hamblets, and Places adjacent; Commonly called <hi>Levellers.</hi>
+            </head>
+            <head type="sub">Preſented to the ſerious conſideration of all the Free-people of this Common-Wealth. <hi>July the 9. 1653.</hi>
+            </head>
+            <p>IT is a Maxime of Common Right yielded and granted of all hands, of Parliament and Army throughout their ſeveral Papers, <hi>That the People of England are a free People, the ſole Original of their own Authority,</hi> and in no wiſe to be ſubjected to the <hi>Iron yoak</hi> of <hi>animpoſed Government,</hi> the Agreement and Election of the Free People being the true Fountain of the Supreme and of all ſubordinate Authorities of this Land; and what is of other <hi>Derivation,</hi> the ſame not to be admited or ſubmitted unto; but declined as Arbytrary, and Forreign.</p>
+            <p n="1">1 For the People in general have all Law and Authority within themſelves, managing their publike Affaires by their <hi>Own elected</hi> Par<g ref="char:EOLhyphen"/>liaments or <hi>Comm<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n councels</hi> of <hi>England,</hi>
+            </p>
+            <p n="2">2 Judging, deciding, and determining all Matters and Cauſes whatſoever by their <hi>Juries;</hi>
+            </p>
+            <p n="3">3 And in all things betwixt party and party, whether of Bargains, Sales, Conveyances, Bonds, or Releaſes, the Agreement, Conſent, or Con<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ract of the party and parties concerned, is <hi>the Law of the Land,</hi> Fundamental and unalterable.</p>
+            <pb n="2" facs="tcp:118437:2"/>
+            <p> So that the People are the Beginning, Medium, and End of, and through the whole Frame of <hi>England's</hi> Lawes and Government thus founded and laid by <hi>Our Fathers,</hi> whoſe Heires we are, and which we muſt claim as our chiefeſt Birth-right and Inheritance: All is pre<g ref="char:EOLhyphen"/>par'd and ready to our hands, our Lawes made, our Government founded: Our work is not now to tear up theſe Foundations, to in<g ref="char:EOLhyphen"/>novate or introduce any new Conſtitution or Frame of Government, but to maintain, defend, &amp; preſerve the Old freed from the Encroach<g ref="char:EOLhyphen"/>ment and Uſurpations of Kinges, Lords, and Pri<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſts. And within theſe antient indiſputable Bound<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ries are our Parliaments or gr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Councels to be confined: beyond this th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y are not to ſwell; hither are they to go, and no farther.</p>
+            <p>And it is the Inheritance of our Child<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en, which our ſelves have not power to give away from them.</p>
+            <p>It is out of the limits of our Truſt; for the People, who are the Truſters, are as well limited as their Elected Truſtees: they cannot confer more then they have in themſelves: <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>s Generation cannot of right diſ-inhe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the next.</p>
+            <p>Thus is our Government (if rightly conſidered) certain and ſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, as the Foundations of the Earth, not to be toſt and varied from this to that at Will and Diſcretion (the Parent of Factions, Diſcentions, and War<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) but to be preſerved as ſacred and unalterable: And then the Commonwealth, as it ſhall be free, ſo ſhall it be ſafe and quiet in it ſelf.</p>
+            <p>And now the wars being over, we cannot look upon our ſelves as a conquered people, to receive our Laws and Government at the hand of a Conqueror, Conqueſt being a Title more proper amongſt Beares and Wolves, then amongſt the free people of <hi>England.</hi> The Army being raiſed not againſt the People, or for ſubverſion of their Rights, but for the maintenance of their Fundamental lawes and liberties; in do<g ref="char:EOLhyphen"/>ing whereof, they have had the cordial aſſiſtance of all the well-affe<g ref="char:EOLhyphen"/>cted of this Nation, as part whereof we alwayes eſteemed them to be: So that, in ſubduing the common enemy, we ſubdued not our ſelves, nor loſt our Birth-rights.</p>
+            <p>And therefore we cannot deem it any Crime to lay claim unto the Fundamental lawes and liberties of our dear and native Countrey, the conſtant Claim of our Fore-fathers through all ſucceſſion of Go<g ref="char:EOLhyphen"/>vernments and Changes in this Nation; and to agree unto, maintain, and aſſert the ſame, hoping that the Gentlemen convened in Councel
+<pb n="3" facs="tcp:118437:2"/> at W<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtminſter, will never go about to take that from Us, they never gave Us, <hi>Our Law<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s and Liberties;</hi> but will imptove this bleſſed Op<g ref="char:EOLhyphen"/>portunity now in their hands, to reſtore us to the full fruition and enjoyment thereof, which will engage Us freely of our own accords, as occaſion ſhall be offered, to h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>zard and ſpend our lives, and all that is near and dear unto U<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in their juſt defence.</p>
+            <p>And therefore they may (amongſt other of the free-born people of <hi>England</hi>) be pleaſed to take no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ice, That amongſt other of our Liber<g ref="char:EOLhyphen"/>ties and free Cuſtoms of England, theſe following, as our Fundamen<g ref="char:EOLhyphen"/>tals, we claim and expect in behalf of our ſelves, and all the reſt of the free people of this Commonwealth; and let none think it ſtrange, or that it is our preſumption: For our Liberties are our own, and our Childrens after Us; they are not of Grace or Favour: And therefore we <hi>crave</hi> them not at an Almes, but <hi>claim</hi> them as Our and our Childrens Right.</p>
+            <p n="1">1. And firſt, that the Government of England is not to be Arby<g ref="char:EOLhyphen"/>trary.</p>
+            <p n="2">2 That the Supreme Authority cannot be devolved upon any per<g ref="char:EOLhyphen"/>ſon, or p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rſons, but by Election of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he free people.</p>
+            <p n="3">3. That yearly Parliaments (to be choſen of courſe by the people) is the onely Supreme lawful Government of England.</p>
+            <p n="4">4 That all Officers and Magiſtrates of the Common-wealth are to be ordained and commiſſioned onely by the Election of the Peo<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of the ſeveral places where they are to officiat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; none to be in pub<g ref="char:EOLhyphen"/>like place above a year.</p>
+            <p n="5">5 That no other wayes of Tryals be in England for life, limb, li<g ref="char:EOLhyphen"/>berty, or eſtate, but by Juries of any perſon of what quality ſoever: all other wayes of T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yals; as, by Commiſſioners, Committees, High-Courts of Juſtice, Councels of State, Privy Councels, Councels of War, Courts Spiritual, &amp;c. being but the branches of Popiſh, Regal, and Arbytrary Power innovated upon the Liberties of the People.</p>
+            <p n="6">6 That Parliaments have not power to continue their Sitting a<g ref="char:EOLhyphen"/>bove a year.</p>
+            <p n="7">7 That Parliaments are not Executioners of the Law.</p>
+            <p n="8">8 That the whole execution thereof be referred to particular Courts of Juſtice.</p>
+            <p n="9">
+               <pb n="4" facs="tcp:118437:3"/> 9 That no man is to be judged before due Tryal, or by a Law made after the Fact committed.</p>
+            <p n="10">10 That Puniſhments are to be proportioned to the Offences, an Eye for an Eye, a Tooth for a Tooth, and Blood for Blood.</p>
+            <p n="11">11 That the Iuries of England are Iudges of matter of Law, as well as matter of Fact.</p>
+            <p n="12">12 That upon all Tryals Witneſſes on both ſides may be ſworn, the Accuſer and the Accuſed brought face to face, and all Courts to be publike and open.</p>
+            <p n="13">13 That no man is to be compelled to ſwear or anſwer to Queſti<g ref="char:EOLhyphen"/>ſtions, to accuſe himſelf or Relations.</p>
+            <p n="14">14 That no coercive Power is to be admitted or exerciſed in mat<g ref="char:EOLhyphen"/>ters of Religion.</p>
+            <p n="15">15 That the maintenance of a Clergy, by way of Tythes, or other enforced Maintenance, is not to be impoſed, or ſubmitted un<g ref="char:EOLhyphen"/>to.</p>
+            <p n="16">16 That all Suits be ended, paſt all Appeal within a ſhort prefixed time, in the Hundred, and County Courts onely.</p>
+            <p n="17">17 That Bale in no Caſe is to be denied, Tryals to be ſpeedy, and tedious and hard Impriſonments no longer to be ſuffered.</p>
+            <p n="18">18 That the right of the Poor, in their Commons, may be preſer<g ref="char:EOLhyphen"/>ved, and freed from the Uſurpations, Encloſures, and Encroachments of all manner of Projectors, Undertakers, &amp;c. and that all ſervile Tenures of Lands, as by Copy-holds, or the like, be aboliſhed and hol<g ref="char:EOLhyphen"/>den for naught.</p>
+            <p n="19">19 That no Fees are to be taken by Gaolers of their priſo<g ref="char:EOLhyphen"/>ners.</p>
+            <p n="20">20 That all proceedings in the law are to be free, without charges or Fees from the parties to the Officers.</p>
+            <p n="21">21 That no mans Body is to be impriſoned for Debt; but all Eſtates to be liable to make ſatisfaction.</p>
+            <p n="22">22 That no man is to be impreſſed to ſerve in the Wars.</p>
+            <p n="23">23 That the <hi>Militia</hi> is to be in the Power of the ſeveral Counties, and the perſons intruſted therewith, elected by the people from time to time.</p>
+            <p n="24">24 That all perſons be equally and alike ſubject to the Law.</p>
+            <p n="25">25 That Trade to all parts beyond the ſeas be equally free to all
+<pb n="5" facs="tcp:118437:3"/> Engliſh-men; that no Monopolies, Pattents, Ingroſſings, Fore ſtal<g ref="char:EOLhyphen"/>lings, Excize, or Cuſtomes, be longer admitted or continued, and that all publike Monies be raiſed by the old way of Subſidies.</p>
+            <p n="26">26 That it is the Engliſh-man's liberty, concerning Iuries, upon any Tryal, to make his challenge or exc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ption againſt 35, without ſhewing cauſe, and againſt as many more as juſt cauſe can be alleadged againſt, until the party do evidently ſee, that his Tryers do ſtand in<g ref="char:EOLhyphen"/>different.</p>
+            <p n="27">27 That all Statute-laws, Acts and Ordinances of Parliament, and all corrupt Cuſtoms or practiſes, of what Antiquity ſoever, con<g ref="char:EOLhyphen"/>trary to theſe Fundamentals of Freedom, are to be holden for naught; not to be obeyed or uſed in England.</p>
+            <p n="28">28 That the grand Councels or Parliaments of England, have not power to diminiſh, violate or alter any of theſe Fundamentals; Theſe being <hi>the just and lawful Claim the ſtanding, unalterable liberties of the peo<g ref="char:EOLhyphen"/>ple;</hi> and which we lay down as the <hi>Land-marks,</hi> the very <hi>Baſis</hi> and <hi>Foundations</hi> of Freedom, the very <hi>Elements</hi> and <hi>firſt Principles</hi> of Com<g ref="char:EOLhyphen"/>mon Right, and as without which the <hi>Government of England</hi> cannot be a <hi>Free Government,</hi> nor this <hi>Nation</hi> a <hi>Free Common wealth;</hi> theſe be<g ref="char:EOLhyphen"/>ing the <hi>onely Bars</hi> againſt <hi>Monarchy</hi> and <hi>Arbitrary Power,</hi> and the <hi>true Conſervators</hi> of the publike Peace and weal of the people, and which by this our <hi>Agreement</hi> and <hi>Claim</hi> we own; And profeſs as in the pre<g ref="char:EOLhyphen"/>ſence of God, to live and dye in the juſt maintainance and profeſſion thereof.</p>
+            <p>As for the <hi>Claims</hi> of <hi>Kings, Lords</hi> or <hi>Priests,</hi> though they challenge <hi>great Antiquity</hi> in this Nation, yet are they no o<g ref="char:EOLhyphen"/>ther then the <hi>Fundamentals</hi> of <hi>Bondage</hi> and <hi>Tyranny.</hi>
+            </p>
+            <p>
+               <hi>Prerogative</hi> and <hi>Supremacy</hi> with that of unknown, unlimi<g ref="char:EOLhyphen"/>ted Parliament <hi>Priviledge,</hi> being the very Mothes and Ca<g ref="char:EOLhyphen"/>terpillars of the Fundamental Laws and Liberties of the Free people of England. For theſe and all lawes in favour of them, are but the <hi>Claim</hi> of <hi>Domination</hi> and <hi>Greatneſs</hi> over the people. Wheras this our <hi>Claim</hi> in behalf of the people, is of certain <hi>Maxims</hi> &amp; <hi>Foundations</hi> of <hi>our Government,</hi> that tends, not to the particular advantage of our ſelves (or any other ſort of men) but to the <hi>common</hi> and <hi>univerſal good</hi> and <hi>benefit</hi>
+               <pb n="6" facs="tcp:118437:4"/> of all, and therefore inconſiſtent with the other.</p>
+            <p>The people can not be a Free people, while the Supream power or Authority is wreſted out of their hands, into the hands of one particul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r, or ſome few; ſo much of their Au<g ref="char:EOLhyphen"/>thority as they let go, ſo much of Bondage they let in; and the prime <hi>Badge</hi> and principle of their Freedom is, <hi>Their own Election;</hi> while that is wanting, they are meer ſlaves, a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will and Diſcretion.</p>
+            <p>The conſideration of which, cannot but put us in minde of the many ſolemn Vows and promiſes of the <hi>preſent Army,</hi> as to the reſtoration of the Fundamental Laws and Liber<g ref="char:EOLhyphen"/>ties of England, one place or two we ſhall recite; <hi>Declar. June</hi> 14. 1647. they there tell us, <hi>That their Deſires as to the compleat ſettlement of the liberties of the people is that bleſſing of God, then which (of all worldly bleſſings) nothing was more dear unto them, or more pretious in their thoughts; and all their en<g ref="char:EOLhyphen"/>joyments of life or livelihood, or nearest relations, but a price ſuf<g ref="char:EOLhyphen"/>ficient to the purchaſe of ſo rich a bleſſing, that themſelves and all the free born people of this Nation, may ſit down in quiet under their own Vines, and under the glorious adminiſtration of Juſtice and Righteouſneſs, and in full poſſeſſion of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe F<g ref="char:V">Ʋ</g>NDA<g ref="char:EOLhyphen"/>MENTAL RIGHTS and LIBERTIES, without which we can have little hopes</hi> (it is their own words) <hi>as to hu<g ref="char:EOLhyphen"/>mane conſideration, to enjoy any com<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orts of life, or ſo much as life it ſelf, but at the pleaſures of ſome men ruling meerly accord<g ref="char:EOLhyphen"/>ing to Will and power.</hi>
+            </p>
+            <p>And in the ſame Declaration they may remember they profeſſed themſelves, <hi>Not a m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er mercinary Army, hired to ſerve any Arbitrary power, but called forth and conjured by the ſeveral Declarations of Parliament, to the Defence of their own and the peoples just and Fundamental Rights and Liberties, and ſo took up Armes in judgement and Conſcience to thoſe ends;</hi> and ſo reſolved to continue, againſt <hi>all Arbitrary power, Violence</hi>
+               <pb n="7" facs="tcp:118437:4"/> 
+               <hi>and oppreſſion.</hi> And in their <hi>Solemn Engagement</hi> made at <hi>New-Market Heath,</hi> June 5. 1647. they did <hi>promiſe and engage to God and to the People, not to divide nor disband, nor ſuffer them<g ref="char:EOLhyphen"/>ſelves to be divided nor disbanded, vntill the full enjoyment of our Freedoms;</hi> moſt ſeriouſly promiſing in ſeveral of their pa<g ref="char:EOLhyphen"/>pers, not <hi>to meddle with the advancement of any particular par<g ref="char:EOLhyphen"/>ty or interest wha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſoever,</hi> but onely minde the COMMON RIGHT and intereſt of the people.</p>
+            <p>And therefore it cannot but be matter of amazement un<g ref="char:EOLhyphen"/>to us, that any Officer or Soldier who hath thus promiſed and proteſted for the <hi>Fundamental Laws and Liberties of the people,</hi> ſhould now queſtion, whether <hi>there be any Funda<g ref="char:EOLhyphen"/>mental Laws and Liberties or no?</hi> yea, and affirm, <hi>that two lines of them are not to be produced;</hi> as we were anſwered at the de<g ref="char:EOLhyphen"/>livery of our Petition in the behalf of Lieutenant Colonel <hi>John Lilburne</hi> (now Priſoner in Newgate, as againſt the Fundamental Laws of <hi>England,</hi> ſo againſt theſe Vowes of the Army) whoſe <hi>Liberty</hi> forth with we <hi>Claim</hi> and <hi>Expect;</hi> as alſo the liberty of all others impriſoned contrary to theſe or any one of theſe <hi>Fundamentals</hi> of <hi>Common Right.</hi>
+            </p>
+            <p>And of no leſs aſtoniſhment it is unto us, That after we had preſented to the General and the Officers of the Army, our Advice concerning the Reſtoration of the Fundamental Lawes and Liberties of <hi>England,</hi> we were told at a publike meeting by one of the Councel of Officers, <hi>That the things therein preſented to their conſideration were acknowleged to be juſt and good, but our perſons were ſo obnoxious to them, that if the Goſpel ſhould be brought by our hands to them, and they knew it came downe from Heaven unto us, yet would they reject it for our ſakes,</hi> or to this effect.</p>
+            <p>Yet we hope theſe are but words of paſſion, ſuch as they will not juſtifie; for indeed they are of a very ill kinde, of
+<pb n="8" facs="tcp:118437:5"/> an ill ſavour unto us, and ſuch as they cannot in conſcience or honour ſeem in the leaſt to countenance; yet if they ſhould as God forbid) or be offended at us for this our <hi>Claim</hi> and <hi>Agreement,</hi> we muſt notwithſtanding perſiſt in our af<g ref="char:EOLhyphen"/>fections, and conſtant peaceable acknowledgement of our <hi>Fundamental Rights,</hi> and the God of Heaven and Earth be Judge betwixt them and us.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
